@@ -10,7 +10,7 @@ In this assignment we had to use HTML, JavaScript, and CSS to create a Weather A
 
 Below is a screen shot of the final product!
 
-<img src= "./screenshot.png" alt= "screenshot">
+<img src= "./Screenshot.png" alt= "screenshot">
 
 ## Credits
 
